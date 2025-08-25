@@ -19,34 +19,34 @@ msgstr ""
 "X-Generator: Poedit 3.3.1\n"
 
 msgid "The filament may not be compatible with the current machine settings. Generic filament presets will be used."
-msgstr ""
+msgstr "Filament nemusí být kompatibilní s aktuálním nastavením stroje. Budou použity obecné předvolby filamentu."
 
 msgid "The filament model is unknown. Still using the previous filament preset."
-msgstr ""
+msgstr "Model filamentu je neznámý. Stále se používá předchozí předvolba filamentu."
 
 msgid "The filament model is unknown. Generic filament presets will be used."
-msgstr ""
+msgstr "Model filamentu je neznámý. Budou použity obecné předvolby filamentu."
 
 msgid "The filament may not be compatible with the current machine settings. A random filament preset will be used."
-msgstr ""
+msgstr "Filament nemusí být kompatibilní s aktuálním nastavením stroje. Bude použita náhodná předvolba filamentu."
 
 msgid "The filament model is unknown. A random filament preset will be used."
-msgstr ""
+msgstr "Model filamentu je neznámý. Bude použita náhodná předvolba filamentu."
 
 msgid "right"
-msgstr ""
+msgstr "vpravo"
 
 msgid "left"
-msgstr ""
+msgstr "vlevo"
 
 msgid "right extruder"
-msgstr ""
+msgstr "pravý extruder"
 
 msgid "left extruder"
-msgstr ""
+msgstr "levý extruder"
 
 msgid "extruder"
-msgstr ""
+msgstr "extruder"
 
 msgid "TPU is not supported by AMS."
 msgstr "AMS nepodporuje TPU."
@@ -55,45 +55,45 @@ msgid "Damp PVA will become flexible and get stuck inside AMS,please take care t
 msgstr "Vlhké PVA se stane pružné a může se zaseknout uvnitř AMS, prosím, pečlivě je usušte před použitím."
 
 msgid "Damp PVA is flexible and may get stuck in extruder. Dry it before use."
-msgstr ""
+msgstr "Vlhký PVA materiál je pružný a může se v extruderu zaseknout. Před použitím jej osušte."
 
 msgid "The rough surface of PLA Glow can accelerate wear on the AMS system, particularly on the internal components of the AMS Lite."
-msgstr ""
+msgstr "Drsný povrch PLA Glow může urychlit opotřebení systému AMS, zejména vnitřních součástí AMS Lite."
 
 msgid "CF/GF filaments are hard and brittle, It's easy to break or get stuck in AMS, please use with caution."
 msgstr "Filamenty CF/GF jsou tvrdé a křehké, snadno se mohou zlomit nebo zaseknout v AMS, používejte je s opatrností."
 
 msgid "PPS-CF is brittle and could break in bended PTFE tube above Toolhead."
-msgstr ""
+msgstr "PPS-CF je křehký a mohl by se zlomit v ohnuté PTFE trubce nad nástrojovou hlavou."
 
 msgid "PPA-CF is brittle and could break in bended PTFE tube above Toolhead."
-msgstr ""
+msgstr "PPA-CF je křehký a mohl by se zlomit v ohnuté PTFE trubce nad nástrojovou hlavou."
 
 #, c-format, boost-format
 msgid "%s is not supported by %s extruder."
-msgstr ""
+msgstr "%s není podporováno extruderem %s."
 
 msgid "Current AMS humidity"
-msgstr ""
+msgstr "Aktuální vlhkost AMS"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Vlhkost"
 
 msgid "Temperature"
 msgstr "Teplota"
 
 msgid "Left Time"
-msgstr ""
+msgstr "Zbývající čas"
 
 msgid "Drying"
-msgstr ""
+msgstr "Sušení"
 
 msgid "Idle"
 msgstr "Nečinný"
 
 #, c-format, boost-format
 msgid "%d ℃"
-msgstr ""
+msgstr "%d ℃"
 
 msgid "Serial:"
 msgstr "Sériové číslo:"
