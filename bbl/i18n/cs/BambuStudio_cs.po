@@ -30,22 +30,22 @@ msgid "The filament model is unknown. A random filament preset will be used."
 msgstr "Model filamentu je neznámý. Bude použito náhodné přednastavení filamentu."
 
 msgid "Main Extruder"
-msgstr ""
+msgstr "Hlavní extruder"
 
 msgid "Main extruder"
-msgstr ""
+msgstr "Hlavní extruder"
 
 msgid "main extruder"
-msgstr ""
+msgstr "hlavní extruder"
 
 msgid "Auxiliary Extruder"
-msgstr ""
+msgstr "Pomocný extruder"
 
 msgid "Auxiliary extruder"
-msgstr ""
+msgstr "Pomocný extruder"
 
 msgid "auxiliary extruder"
-msgstr ""
+msgstr "pomocný extruder"
 
 msgid "Left Extruder"
 msgstr "Levý extruder"
@@ -66,22 +66,22 @@ msgid "right extruder"
 msgstr "Pravý extrudér"
 
 msgid "Main Nozzle"
-msgstr ""
+msgstr "Hlavní tryska"
 
 msgid "Main nozzle"
-msgstr ""
+msgstr "Hlavní tryska"
 
 msgid "main nozzle"
-msgstr ""
+msgstr "hlavní tryska"
 
 msgid "Auxiliary Nozzle"
-msgstr ""
+msgstr "Pomocná tryska"
 
 msgid "Auxiliary nozzle"
-msgstr ""
+msgstr "Pomocná tryska"
 
 msgid "auxiliary nozzle"
-msgstr ""
+msgstr "pomocná tryska"
 
 msgid "Left Nozzle"
 msgstr "Levá tryska"
@@ -102,52 +102,52 @@ msgid "right nozzle"
 msgstr "Pravá tryska"
 
 msgid "Main Hotend"
-msgstr ""
+msgstr "Hlavní hotend"
 
 msgid "Main hotend"
-msgstr ""
+msgstr "Hlavní hotend"
 
 msgid "main hotend"
-msgstr ""
+msgstr "hlavní hotend"
 
 msgid "Auxiliary Hotend"
-msgstr ""
+msgstr "Pomocný hotend"
 
 msgid "Auxiliary hotend"
-msgstr ""
+msgstr "Pomocný hotend"
 
 msgid "auxiliary hotend"
-msgstr ""
+msgstr "pomocný hotend"
 
 msgid "Left Hotend"
-msgstr ""
+msgstr "Levý hotend"
 
 msgid "Left hotend"
-msgstr ""
+msgstr "Levý hotend"
 
 msgid "left hotend"
-msgstr ""
+msgstr "levý hotend"
 
 msgid "Right Hotend"
-msgstr ""
+msgstr "Pravý hotend"
 
 msgid "Right hotend"
-msgstr ""
+msgstr "Pravý hotend"
 
 msgid "right hotend"
-msgstr ""
+msgstr "pravý hotend"
 
 msgid "main"
-msgstr ""
+msgstr "hlavní"
 
 msgid "auxiliary"
-msgstr ""
+msgstr "pomocný"
 
 msgid "Main"
-msgstr ""
+msgstr "Hlavní"
 
 msgid "Auxiliary"
-msgstr ""
+msgstr "Pomocný"
 
 msgid "left"
 msgstr "vlevo"
@@ -184,16 +184,16 @@ msgid "Auto dynamic flow calibration is not supported for TPU filament."
 msgstr "Automatická dynamická kalibrace průtoku není podporována pro TPU filament."
 
 msgid "Bambu TPU 85A is not supported for printing with 0.4 mm Standard or High Flow nozzles."
-msgstr ""
+msgstr "Bambu TPU 85A není podporován pro tisk s tryskami Standard nebo High Flow o průměru 0,4 mm."
 
 msgid "When using ABS/ASA/PETG HF on the right extruder, it can only be used as support material."
-msgstr ""
+msgstr "Při použití ABS/ASA/PETG HF v pravém extruderu lze tento filament použít pouze jako podpůrný materiál."
 
 msgid "How to feed TPU filament."
-msgstr "Jak podávat TPU filament."
+msgstr "Jak zavést TPU filament."
 
 msgid "How to feed TPU filament on X2D."
-msgstr ""
+msgstr "Jak zavést TPU filament do tiskárny X2D."
 
 msgid "Using non-bambu filament may have printing quality issues."
 msgstr "Použití jiného než bambu filament může mít za následek sníženou kvalitu tisku."
@@ -241,19 +241,19 @@ msgstr "%s není podporován extruderem %s."
 
 #, c-format, boost-format
 msgid "There may be critical print quality issues when printing '%s' with %s Bowden extruder. Use with caution!"
-msgstr ""
+msgstr "Při tisku '%s' pomocí Bowdenova extruderu %s může dojít k závažným problémům s kvalitou tisku. Postupujte opatrně!"
 
 #, c-format, boost-format
 msgid "There may be critical print quality issues when printing '%s' with %s extruder. Use with caution!"
-msgstr ""
+msgstr "Při tisku '%s' pomocí extruderu %s může dojít k závažným problémům s kvalitou tisku. Postupujte opatrně!"
 
 #, c-format, boost-format
 msgid "There may be print quality issues when printing '%s' with %s Bowden extruder. Use with caution."
-msgstr ""
+msgstr "Při tisku '%s' pomocí Bowdenova extruderu %s může dojít k problémům s kvalitou tisku. Postupujte opatrně."
 
 #, c-format, boost-format
 msgid "There may be print quality issues when printing '%s' with %s extruder. Use with caution."
-msgstr ""
+msgstr "Při tisku '%s' pomocí extruderu %s může dojít k problémům s kvalitou tisku. Postupujte opatrně."
 
 msgid "The toolhead and hotend rack may move. Please keep your hands away from the chamber."
 msgstr "Stojan tiskové hlavy a hotendu se může pohybovat. Držte ruce mimo komoru."
@@ -338,32 +338,32 @@ msgid "%d ℃"
 msgstr ""
 
 msgid "Filament Inlet A"
-msgstr ""
+msgstr "Vstup filamentu A"
 
 msgid "Filament Inlet B"
-msgstr ""
+msgstr "Vstup filamentu B"
 
 msgid "Filament Track Switch"
-msgstr ""
+msgstr "Přepínač dráhy filamentu"
 
 msgid "Suggested rearrangement"
-msgstr ""
+msgstr "Doporučené přeuspořádání"
 
 msgid "How to save time?→"
-msgstr ""
+msgstr "Jak ušetřit čas?→"
 
 msgid "Filament Status:"
-msgstr ""
+msgstr "Stav filamentu:"
 
 msgid "Position adjustment required"
-msgstr ""
+msgstr "Je nutné upravit polohu"
 
 msgctxt "FilamentTrack"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Unused"
-msgstr ""
+msgstr "Nepoužito"
 
 msgid "Refresh"
 msgstr "Obnovit"
@@ -373,26 +373,26 @@ msgstr "Zavřít"
 
 #, c-format, boost-format
 msgid "Based on the diagram below, rearrange the filaments on the printer for optimal results to save approximately %s."
-msgstr ""
+msgstr "Podle níže uvedeného schématu přeuspořádejte filamenty v tiskárně pro dosažení optimálních výsledků a úsporu přibližně %s."
 
 msgid "Summary:"
-msgstr ""
+msgstr "Shrnutí:"
 
 msgid "AMS on Filament Inlet A"
-msgstr ""
+msgstr "AMS na vstupu filamentu A"
 
 msgid "AMS on Filament Inlet B"
-msgstr ""
+msgstr "AMS na vstupu filamentu B"
 
 #, c-format, boost-format
 msgid "The No.%d slicing filament is matched to '%s'. Assigning it to '%s' can save printing time."
-msgstr ""
+msgstr "Filament č. %d použitý při slicování je přiřazen k '%s'. Jeho přiřazením k '%s' můžete zkrátit dobu tisku."
 
 msgid "*Tips: If you have moved the spool position on the machine, please close this page and re‑match the filament."
-msgstr ""
+msgstr "*Tip: Pokud jste změnili umístění cívky v tiskárně, zavřete tuto stránku a znovu přiřaďte filament."
 
 msgid "Summary: This is currently the most suitable position for placement."
-msgstr ""
+msgstr "Shrnutí: Toto je aktuálně nejvhodnější umístění."
 
 msgid "?"
 msgstr ""
@@ -464,7 +464,7 @@ msgid "Refreshing"
 msgstr "Obnovuji"
 
 msgid "Hotend status abnormal, unavailable at present. Please upgrade the firmware and try again."
-msgstr ""
+msgstr "Byl zjištěn problém s tiskovou hlavou, která je momentálně nedostupná. Aktualizujte firmware a zkuste to znovu."
 
 msgid "SN"
 msgstr "SN"
@@ -474,10 +474,10 @@ msgstr "Verze"
 
 #, c-format, boost-format
 msgid "Used Time: %s"
-msgstr ""
+msgstr "Doba používání: %s"
 
 msgid "Dynamic nozzles are allocated on the current plate. Picking hotend is not supported."
-msgstr ""
+msgstr "Na aktuální tiskové podložce jsou dynamicky přiřazeny trysky. Ruční výběr tiskové hlavy není podporován."
 
 msgid "Hotend Rack"
 msgstr "Stojan na hotend"
